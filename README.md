@@ -2,8 +2,10 @@
 
 I am passionate about doing Cross-platform software and tools for developers.
 I am an all rounder, so I build both desktop and web applications, as well as pure CLI apps and background services.
+
 On a daily basis I work with networking, asynchronous communication, machine controllers and many more.
 Linux is my daily driver, which is where most of my development and tooling happens.
+
 I am currently running Arch on an x86_64 laptop and an aarch64 single board computer (ArmSom Sige7).
 I have been tinkering with NixOS lately.
 
