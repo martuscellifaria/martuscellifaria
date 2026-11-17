@@ -50,3 +50,4 @@ I have been tinkering with NixOS lately.
 ## Contact
 
 - GitHub: [@martuscellifaria](https://github.com/martuscellifaria)
+- LinkedIn: [Alexandre Martuscelli Faria](https://www.linkedin.com/in/alexandremfaria/)
