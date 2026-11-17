@@ -25,13 +25,6 @@ I have been tinkering with NixOS lately.
 
 - **[AhoiPlank](https://github.com/martuscellifaria/ahoiplank)** — A customizable multi mode launcher for Wayland that looks good out of the box. Written in C++ and Qt 6.
 
-## Frameworks & Libraries
-
-![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
-![Asio](https://img.shields.io/badge/Asio-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 ## Tools
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -40,6 +33,21 @@ I have been tinkering with NixOS lately.
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-555555?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Frameworks & Libraries
+
+![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![Asio](https://img.shields.io/badge/Asio-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+## Protocols & IPC
+
+- TCP / sockets
+- HTTP / REST
+- WebSockets
+- OPC UA
+- Named pipes
 
 ## Databases
 
