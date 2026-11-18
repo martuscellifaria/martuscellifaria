@@ -67,5 +67,6 @@ I have been tinkering with NixOS lately.
 - GitHub: [@martuscellifaria](https://github.com/martuscellifaria)
 - LinkedIn: [Alexandre Martuscelli Faria](https://www.linkedin.com/in/alexandremfaria/)
 
-<br/>
+## Views counter
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=martuscellifaria&style=for-the-badge&label=👁️+Views&color=blueviolet)
