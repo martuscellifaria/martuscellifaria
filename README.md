@@ -69,4 +69,4 @@ I have been tinkering with NixOS lately.
 
 ## Views counter
 
-![Profile views counter](https://komarev.com/ghpvc/?username=martuscellifaria&style=for-the-badge&label=👁️+Views&color=blueviolet)
+![Profile views counter](https://komarev.com/ghpvc/?username=martuscellifaria&style=for-the-badge&label=Views&color=blueviolet)
